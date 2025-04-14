@@ -1,0 +1,151 @@
+{
+    "users": [
+        {
+            "username": "vaishnavi",
+            "password": "123"
+        },
+        {
+            "username": "sagar",
+            "password": "123"
+        },
+        {
+            "username": "Vaishnavi",
+            "password": "1234"
+        },
+        {
+            "username": "sagar@gmail.com",
+            "password": "Sagar",
+            "name": "sagar",
+            "phone": "07796898227"
+        },
+        {
+            "username": "OM@gmail.com",
+            "password": "Sagar",
+            "name": "Om",
+            "phone": "9765448971"
+        }
+    ],
+    "tasks": [
+        {
+            "id": "a2aeea20-5398-42cb-8ee1-8831869a6628",
+            "description": "Home Page",
+            "deadline": "2025-04-17T19:50",
+            "responsible_person": "sagar",
+            "completed": false,
+            "user": "vaishnavi"
+        },
+        {
+            "id": "3e797f84-ccf1-4c3f-becc-bc0122e3e27b",
+            "description": "Sign In",
+            "deadline": "2025-04-25T20:00",
+            "responsible_person": "vaibhav",
+            "completed": false,
+            "user": "sagar"
+        },
+        {
+            "id": "abcc6366-689a-4b14-afa0-7693c99e528d",
+            "description": "Complete assignment 01",
+            "deadline": "2025-04-19T07:44",
+            "responsible_person": "Chinta",
+            "completed": false,
+            "user": "sagar@gmail.com"
+        },
+        {
+            "id": "task-4",
+            "description": "Design Landing Page",
+            "deadline": "2025-04-20T10:00",
+            "responsible_person": "Om",
+            "completed": false,
+            "user": "OM@gmail.com"
+        },
+        {
+            "id": "task-5",
+            "description": "Implement Signup Form",
+            "deadline": "2025-04-22T12:00",
+            "responsible_person": "sagar",
+            "completed": false,
+            "user": "sagar@gmail.com"
+        },
+        {
+            "id": "task-6",
+            "description": "API Integration",
+            "deadline": "2025-04-23T16:00",
+            "responsible_person": "vaishnavi",
+            "completed": false,
+            "user": "vaishnavi"
+        },
+        {
+            "id": "task-7",
+            "description": "Write Unit Tests",
+            "deadline": "2025-04-24T15:00",
+            "responsible_person": "Om",
+            "completed": false,
+            "user": "OM@gmail.com"
+        },
+        {
+            "id": "task-8",
+            "description": "Code Review",
+            "deadline": "2025-04-26T13:00",
+            "responsible_person": "sagar",
+            "completed": false,
+            "user": "sagar@gmail.com"
+        },
+        {
+            "id": "task-9",
+            "description": "Deploy to Production",
+            "deadline": "2025-04-28T09:00",
+            "responsible_person": "Om",
+            "completed": false,
+            "user": "OM@gmail.com"
+        },
+        {
+            "id": "task-10",
+            "description": "Feedback Collection",
+            "deadline": "2025-04-29T11:00",
+            "responsible_person": "vaishnavi",
+            "completed": false,
+            "user": "vaishnavi"
+        },
+        {
+            "id": "task-11",
+            "description": "Bug Fixes",
+            "deadline": "2025-04-30T18:00",
+            "responsible_person": "Chinta",
+            "completed": false,
+            "user": "sagar@gmail.com"
+        },
+        {
+            "id": "task-12",
+            "description": "Prepare Documentation",
+            "deadline": "2025-05-01T14:00",
+            "responsible_person": "sagar",
+            "completed": false,
+            "user": "sagar@gmail.com"
+        },
+        {
+            "id": "task-13",
+            "description": "Team Sync-up",
+            "deadline": "2025-05-02T10:00",
+            "responsible_person": "Vaishnavi",
+            "completed": false,
+            "user": "Vaishnavi"
+        },
+        {
+            "id": "task-14",
+            "description": "Performance Optimization",
+            "deadline": "2025-05-03T17:00",
+            "responsible_person": "Om",
+            "completed": false,
+            "user": "OM@gmail.com"
+        },
+        {
+            "id": "3d6b30dc-053c-4ff6-941d-70dc2fa97531",
+            "description": "bye bye",
+            "deadline": "2025-04-19T04:50",
+            "start_date": "2025-04-14",
+            "responsible_person": "Chinta",
+            "completed": false,
+            "user": "OM@gmail.com"
+        }
+    ]
+}
